@@ -752,12 +752,12 @@
     <message>
         <location filename="../chatapi.cpp" line="230"/>
         <source>ERROR: Network error occurred while connecting to the API server</source>
-        <translation type="unfinished"></translation>
+        <translation>ПОМИЛКА: Виникла помилка мережі під час підключення до сервера API</translation>
     </message>
     <message>
         <location filename="../chatapi.cpp" line="243"/>
         <source>ChatAPIWorker::handleFinished got HTTP Error %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ChatAPIWorker::handleFinished отримав HTTP помилку %1 %2</translation>
     </message>
 </context>
 <context>
@@ -766,73 +766,73 @@
         <location filename="../qml/ChatDrawer.qml" line="37"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="37"/>
         <source>Drawer</source>
-        <translation type="unfinished"></translation>
+        <translation>Шухляда</translation>
     </message>
     <message>
         <location filename="../qml/ChatDrawer.qml" line="38"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="38"/>
         <source>Main navigation drawer</source>
-        <translation type="unfinished"></translation>
+        <translation>Головна навігаційна шухляда</translation>
     </message>
     <message>
         <location filename="../qml/ChatDrawer.qml" line="49"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="49"/>
         <source>＋ New Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>+ Новий Чат</translation>
     </message>
     <message>
         <location filename="../qml/ChatDrawer.qml" line="50"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="50"/>
         <source>Create a new chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити новий чат</translation>
     </message>
     <message>
         <location filename="../qml/ChatDrawer.qml" line="199"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="199"/>
         <source>Select the current chat or edit the chat when in edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть поточний чат або відредагуйте чат в режимі редагування</translation>
     </message>
     <message>
         <location filename="../qml/ChatDrawer.qml" line="216"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="216"/>
         <source>Edit chat name</source>
-        <translation type="unfinished"></translation>
+        <translation>Редагувати назву чату</translation>
     </message>
     <message>
         <location filename="../qml/ChatDrawer.qml" line="229"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="229"/>
         <source>Save chat name</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти назву чату</translation>
     </message>
     <message>
         <location filename="../qml/ChatDrawer.qml" line="246"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="246"/>
         <source>Delete chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити чат</translation>
     </message>
     <message>
         <location filename="../qml/ChatDrawer.qml" line="283"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="283"/>
         <source>Confirm chat deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердити видалення чату</translation>
     </message>
     <message>
         <location filename="../qml/ChatDrawer.qml" line="305"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="305"/>
         <source>Cancel chat deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Відмінити видалення чату</translation>
     </message>
     <message>
         <location filename="../qml/ChatDrawer.qml" line="317"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="317"/>
         <source>List of chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Список чатів</translation>
     </message>
     <message>
         <location filename="../qml/ChatDrawer.qml" line="318"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="318"/>
         <source>List of chats in the drawer dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Діалогове вікно списку чатів в шухляді</translation>
     </message>
 </context>
 <context>
