@@ -439,7 +439,7 @@
         <location filename="../qml/ApplicationSettings.qml" line="25"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="25"/>
         <source>Network dialog</source>
-        <translation>Діалогове вікно мережі</translation>
+        <translation>Діалог мережі</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="26"/>
@@ -470,7 +470,7 @@
         <location filename="../qml/ApplicationSettings.qml" line="48"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="48"/>
         <source>Error dialog</source>
-        <translation>Діалогове вікно помилки</translation>
+        <translation>Діалог помилки</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="72"/>
@@ -832,7 +832,7 @@
         <location filename="../qml/ChatDrawer.qml" line="318"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatDrawer.qml" line="318"/>
         <source>List of chats in the drawer dialog</source>
-        <translation>Діалогове вікно списку чатів в шухляді</translation>
+        <translation>Діалог списку чатів в шухляді</translation>
     </message>
 </context>
 <context>
@@ -840,32 +840,33 @@
     <message>
         <location filename="../chatlistmodel.h" line="86"/>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>СЬОГОДНІ</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <location filename="../chatlistmodel.h" line="88"/>
         <source>THIS WEEK</source>
-        <translation type="unfinished"></translation>
+        <translation>ЦЬОГО ТИЖНЯ</translation>
     </message>
     <message>
         <location filename="../chatlistmodel.h" line="90"/>
         <source>THIS MONTH</source>
-        <translation type="unfinished"></translation>
+        <translation>ЦЬОГО МІСЯЦЯ</translation>
     </message>
     <message>
         <location filename="../chatlistmodel.h" line="92"/>
         <source>LAST SIX MONTHS</source>
-        <translation type="unfinished"></translation>
+        <translation>ОСТАННІ ШІСТЬ МІСЯЦІВ</translation>
     </message>
     <message>
         <location filename="../chatlistmodel.h" line="94"/>
         <source>THIS YEAR</source>
-        <translation type="unfinished"></translation>
+        <translation>ЦЬОГО РОКУ</translation>
     </message>
     <message>
         <location filename="../chatlistmodel.h" line="96"/>
         <source>LAST YEAR</source>
-        <translation type="unfinished"></translation>
+        <translation>ОСТАННЬОГО РОКУ</translation>
     </message>
 </context>
 <context>
@@ -874,97 +875,97 @@
         <location filename="../qml/ChatView.qml" line="77"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="77"/>
         <source>&lt;h3&gt;Warning&lt;/h3&gt;&lt;p&gt;%1&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Попередження&lt;/h3&gt;&lt;p&gt;%1&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="86"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="86"/>
         <source>Switch model dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Діалог переключення моделі</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="87"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="87"/>
         <source>Warn the user if they switch models, then context will be erased</source>
-        <translation type="unfinished"></translation>
+        <translation>Попередити користувача, що при зміні моделей контекст буде стерто</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="94"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="94"/>
         <source>Conversation copied to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмову скопійовано в буфер обміну.</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="101"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="101"/>
         <source>Code copied to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Код скопійовано в буфер обміну.</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="231"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="231"/>
         <source>Chat panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель чату</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="232"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="232"/>
         <source>Chat panel with options</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель чату з налаштуваннями</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="339"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="339"/>
         <source>Reload the currently loaded model</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезавантажити поточну модель</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="353"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="353"/>
         <source>Eject the currently loaded model</source>
-        <translation type="unfinished"></translation>
+        <translation>Вивантажити поточну завантажену модель</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="365"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="365"/>
         <source>No model installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає встановлених моделей.</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="367"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="367"/>
         <source>Model loading error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка завантаження моделі.</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="369"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="369"/>
         <source>Waiting for model...</source>
-        <translation type="unfinished"></translation>
+        <translation>Очіковання моделі...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="371"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="371"/>
         <source>Switching context...</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемикання контексту...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="373"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="373"/>
         <source>Choose a model...</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибір моделі...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="375"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="375"/>
         <source>Not found: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не знайдено: %1</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="463"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="463"/>
         <source>The top item is the current model</source>
-        <translation type="unfinished"></translation>
+        <translation>Найперша позиція — це поточна модель</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="549"/>
@@ -972,104 +973,105 @@
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="549"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1313"/>
         <source>LocalDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalDocs</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="567"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="567"/>
         <source>Add documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати документи</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="568"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="568"/>
         <source>add collections of documents to the chat</source>
-        <translation type="unfinished"></translation>
+        <translation>додати колекції документів в чат</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="738"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="738"/>
         <source>Load the default model</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити модель за замовчуванням</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="739"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="739"/>
         <source>Loads the default model which can be changed in settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажує модель за замовчуванням, яку можна змінити в налаштуваннях</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="750"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="750"/>
         <source>No Model Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Нема встановлених Моделей</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="759"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="759"/>
         <source>GPT4All requires that you install at least one
 model to get started</source>
-        <translation type="unfinished"></translation>
+        <translation>GPT4All вимагає встановлення принаймні
+однієї моделі для початку роботи</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="771"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="771"/>
         <source>Install a Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити Модель</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="776"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="776"/>
         <source>Shows the add model view</source>
-        <translation type="unfinished"></translation>
+        <translation>Показує діалог додавання моделі</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="801"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="801"/>
         <source>Conversation with the model</source>
-        <translation type="unfinished"></translation>
+        <translation>Спілкування з моделлю</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="802"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="802"/>
         <source>prompt / response pairs from the conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>пари запит / відповідь зі спілкування</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="854"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="854"/>
         <source>GPT4All</source>
-        <translation type="unfinished"></translation>
+        <translation>GPT4All</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="854"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="854"/>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="878"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="878"/>
         <source>response stopped ...</source>
-        <translation type="unfinished"></translation>
+        <translation>відповідь зупинена ...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="881"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="881"/>
         <source>processing ...</source>
-        <translation type="unfinished"></translation>
+        <translation>обробка ...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="882"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="882"/>
         <source>generating response ...</source>
-        <translation type="unfinished"></translation>
+        <translation>генерація відповіді ...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="883"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="883"/>
         <source>generating questions ...</source>
-        <translation type="unfinished"></translation>
+        <translation>генерація питань ...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="949"/>
@@ -1077,103 +1079,103 @@ model to get started</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="949"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1905"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="955"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="955"/>
         <source>Copy Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати Повідомлення</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="965"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="965"/>
         <source>Disable markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнути markdown</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="965"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="965"/>
         <source>Enable markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввімкнути markdown</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1055"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1055"/>
         <source>Thumbs up</source>
-        <translation type="unfinished"></translation>
+        <translation>Подобається</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1056"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1056"/>
         <source>Gives a thumbs up to the response</source>
-        <translation type="unfinished"></translation>
+        <translation>Ставить статус &quot;подобається&quot; для відповіді</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1089"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1089"/>
         <source>Thumbs down</source>
-        <translation type="unfinished"></translation>
+        <translation>Не подобається</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1090"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1090"/>
         <source>Opens thumbs down dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкриває діалог &quot;не подобається&quot;</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1145"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1145"/>
         <source>%1 Sources</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Джерела</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1389"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1389"/>
         <source>Suggested follow-ups</source>
-        <translation type="unfinished"></translation>
+        <translation>Рекомендовані продовження</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1665"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1665"/>
         <source>Erase and reset chat session</source>
-        <translation type="unfinished"></translation>
+        <translation>Стерти та скинути сесію чату</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1686"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1686"/>
         <source>Copy chat session to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy chat session to clipboard</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1712"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1712"/>
         <source>Redo last chat response</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторити останню відповідь чату</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1961"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1961"/>
         <source>Stop generating</source>
-        <translation type="unfinished"></translation>
+        <translation>Припинити генерацію</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1962"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1962"/>
         <source>Stop the current response generation</source>
-        <translation type="unfinished"></translation>
+        <translation>Зупинити генерацію поточної відповіді</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1777"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1777"/>
         <source>Reloads the model</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезавантажує модель</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="58"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="58"/>
         <source>&lt;h3&gt;Encountered an error loading model:&lt;/h3&gt;&lt;br&gt;&lt;i&gt;&quot;%1&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;Model loading failures can happen for a variety of reasons, but the most common causes include a bad file format, an incomplete or corrupted download, the wrong file type, not enough system RAM or an incompatible model type. Here are some suggestions for resolving the problem:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Ensure the model file has a compatible format and type&lt;li&gt;Check the model file is complete in the download folder&lt;li&gt;You can find the download folder in the settings dialog&lt;li&gt;If you&apos;ve sideloaded the model ensure the file is not corrupt by checking md5sum&lt;li&gt;Read more about what models are supported in our &lt;a href=&quot;https://docs.gpt4all.io/&quot;&gt;documentation&lt;/a&gt; for the gui&lt;li&gt;Check out our &lt;a href=&quot;https://discord.gg/4M2QFmTt2k&quot;&gt;discord channel&lt;/a&gt; for help</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Сталася помилка при завантаженні моделі:&lt;/h3&gt;&lt;br&gt;&lt;i&gt;&quot;%1&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;Помилки завантаження моделі можуть виникати з різних причин, але найпоширеніші включають неправильний формат файлу, неповне або пошкоджене завантаження, невірний тип файлу, нестачу оперативної пам’яті або несумісний тип моделі. Ось кілька порад для вирішення проблеми:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Переконайтеся, що файл моделі має сумісний формат і тип&lt;li&gt;Перевірте, що файл моделі повний та знаходиться у папці завантажень&lt;li&gt;Ви можете знайти папку завантажень у діалоговому вікні налаштувань&lt;li&gt;Якщо ви завантажили модель самостійно, переконайтеся, що файл не пошкоджений, перевіривши md5sum&lt;li&gt;Дізнайтеся більше про підтримувані моделі у нашій &lt;a href=&quot;https://docs.gpt4all.io/&quot;&gt;документації&lt;/a&gt; для графічного інтерфейсу&lt;li&gt;Перегляньте наш &lt;a href=&quot;https://discord.gg/4M2QFmTt2k&quot;&gt;дискорд-канал&lt;/a&gt; для отримання допомоги</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="377"/>
@@ -1181,85 +1183,85 @@ model to get started</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="377"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1775"/>
         <source>Reload · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезавантажити · %1</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="379"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="379"/>
         <source>Loading · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження · %1</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="714"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="714"/>
         <source>Load · %1 (default) →</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити · %1 (за замовчуванням) →</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="876"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="876"/>
         <source>restoring from text ...</source>
-        <translation type="unfinished"></translation>
+        <translation>відновлення з тексту ...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="879"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="879"/>
         <source>retrieving localdocs: %1 ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Отримання LocalDocs: %1 ...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="880"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="880"/>
         <source>searching localdocs: %1 ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук в LocalDocs: %1 ...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1851"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1851"/>
         <source>Send a message...</source>
-        <translation type="unfinished"></translation>
+        <translation>Надіслати повідомлення...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1851"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1851"/>
         <source>Load a model to continue...</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажте модель, щоб продовжити...</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1854"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1854"/>
         <source>Send messages/prompts to the model</source>
-        <translation type="unfinished"></translation>
+        <translation>Надсилайте повідомлення/запити до моделі</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1899"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1899"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Вирізати</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1911"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1911"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставити</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1915"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1915"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибрати Все</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1985"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1985"/>
         <source>Send message</source>
-        <translation type="unfinished"></translation>
+        <translation>Відправити повідомлення</translation>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="1986"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1986"/>
         <source>Sends the message/prompt contained in textfield to the model</source>
-        <translation type="unfinished"></translation>
+        <translation>Надсилає повідомлення/запит, що міститься в текстовому полі, до моделі</translation>
     </message>
 </context>
 <context>
