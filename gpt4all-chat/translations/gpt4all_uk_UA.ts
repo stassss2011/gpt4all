@@ -433,19 +433,19 @@
         <location filename="../qml/ApplicationSettings.qml" line="16"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="16"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Застосунок</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="25"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="25"/>
         <source>Network dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Діалогове вікно мережі</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="26"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="26"/>
         <source>opt-in to share feedback/conversations</source>
-        <translation type="unfinished"></translation>
+        <translation>згода на обмін відгуками/розмовами</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="37"/>
@@ -457,115 +457,122 @@
                    above where this application resides on your filesystem.&lt;br&gt;&lt;br&gt;
                    If you can&apos;t start it manually, then I&apos;m afraid you&apos;ll have to&lt;br&gt;
                    reinstall.</source>
-        <translation type="unfinished"></translation>
+        <translation>ПОМИЛКА: Система оновлення не змогла знайти MaintenanceTool,&lt;br&gt;
+                   який використовувався для перевірки оновлень!&lt;br&gt;&lt;br&gt;
+                   Ви встановили цей застосунок за допомогою онлайн-інсталятора?&lt;br&gt;
+                   Якщо так, то виконуваний файл MaintenanceTool має бути&lt;br&gt;
+                   розташований на один рівень вище за те, де знаходиться&lt;br&gt;
+                   цей застосунок у вашій файловій системі.&lt;br&gt;&lt;br&gt;
+                   Якщо ви не можете запустити його вручну, на жаль,&lt;br&gt;
+                   вам доведеться перевстановити застосунок.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="48"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="48"/>
         <source>Error dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Діалогове вікно помилки</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="72"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="72"/>
         <source>Application Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування Застосунку</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="85"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="85"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальні</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="97"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="97"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="98"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="98"/>
         <source>The application color scheme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Колірна схема програми.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="113"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="113"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Тамна</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="112"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="112"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Світла</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="114"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="114"/>
         <source>LegacyDark</source>
-        <translation type="unfinished"></translation>
+        <translation>Стара Темна</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="136"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="136"/>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір Шрифту</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="137"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="137"/>
         <source>The size of text in the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір тексту в застосунку.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="151"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="151"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>Маленькій</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="152"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="152"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Середній</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="153"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="153"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="176"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="176"/>
         <source>Language and Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Мова та регіональні налаштування</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="177"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="177"/>
         <source>The language and locale you wish to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Мова та регіональні налаштування, які ви бажаєте використовувати.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="196"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="196"/>
         <source>System Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Системні регіональні налаштування</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="223"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="223"/>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Пристрій</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="224"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="224"/>
         <source>The compute device used for text generation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обчислювальний пристрій, що використовується для генерації тексту.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="242"/>
@@ -573,157 +580,157 @@
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="242"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="297"/>
         <source>Application default</source>
-        <translation type="unfinished"></translation>
+        <translation>За замовчуванням застосунку</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="275"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="275"/>
         <source>Default Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель за замовчуванням</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="276"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="276"/>
         <source>The preferred model for new chats. Also used as the local server fallback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переважна модель для нових чатів. Також використовується як резервний локальний сервер.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="339"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="339"/>
         <source>Suggestion Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим підказок</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="340"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="340"/>
         <source>Generate suggested follow-up questions at the end of responses.</source>
-        <translation type="unfinished"></translation>
+        <translation>Генерувати можливі наступні питання в кінці відповідей.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="353"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="353"/>
         <source>When chatting with LocalDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>Під час спілкування з LocalDocs</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="354"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="354"/>
         <source>Whenever possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Коли можливо</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="355"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="355"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Ніколи</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="368"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="368"/>
         <source>Download Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Шлях Завантаження</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="369"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="369"/>
         <source>Where to store local models and the LocalDocs database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Де зберігати локальні моделі та базу даних LocalDocs.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="398"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="398"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="399"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="399"/>
         <source>Choose where to save model files</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть, де зберігати файли моделей</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="410"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="410"/>
         <source>Enable Datalake</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути Datalake</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="411"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="411"/>
         <source>Send chats and feedback to the GPT4All Open-Source Datalake.</source>
-        <translation type="unfinished"></translation>
+        <translation>Надсилати чати та відгуки до відкритого сховища даних GPT4All Datalake.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="444"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="444"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Розширені налаштування</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="456"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="456"/>
         <source>CPU Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Потоки процесора</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="457"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="457"/>
         <source>The number of CPU threads used for inference and embedding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість потоків процесора, що використовуються для інференсу та ембеденгів.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="488"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="488"/>
         <source>Save Chat Context</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти контекст чату</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="489"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="489"/>
         <source>Save the chat model&apos;s state to disk for faster loading. WARNING: Uses ~2GB per chat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти стан моделі чату на диск для швидшого завантаження. ПОПЕРЕДЖЕННЯ: Використовує приблизно 2 ГБ на чат.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="505"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="505"/>
         <source>Enable Local Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути локальний сервер</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="506"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="506"/>
         <source>Expose an OpenAI-Compatible server to localhost. WARNING: Results in increased resource usage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити сервер, сумісний з OpenAI, на localhost. ПОПЕРЕДЖЕННЯ: Призводить до збільшення використання ресурсів.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="522"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="522"/>
         <source>API Server Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Порт серверу API</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="523"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="523"/>
         <source>The port to use for the local server. Requires restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Порт, який слід використовувати для локального сервера. Потребує перезапуску.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="575"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="575"/>
         <source>Check For Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірити наявність оновлень</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="576"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="576"/>
         <source>Manually check for an update to GPT4All.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірити наявність оновлень для GPT4All вручну.</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="585"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="585"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення</translation>
     </message>
 </context>
 <context>
@@ -732,12 +739,12 @@
         <location filename="../chat.h" line="72"/>
         <location filename="../chat.cpp" line="25"/>
         <source>New Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Новий Чат</translation>
     </message>
     <message>
         <location filename="../chat.cpp" line="38"/>
         <source>Server Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Серверний Чат</translation>
     </message>
 </context>
 <context>
