@@ -82,109 +82,109 @@
         <location filename="../qml/AddModelView.qml" line="55"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="55"/>
         <source>← Existing Models</source>
-        <translation type="unfinished"></translation>
+        <translation>← Існуючі Моделі</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="75"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="75"/>
         <source>Explore Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути Моделі</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="92"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="92"/>
         <source>Discover and download models by keyword search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Знайти та завантажити моделі за допомогою пошуку за ключовими словами...</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="95"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="95"/>
         <source>Text field for discovering and filtering downloadable models</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстове поле для знаходження та фільтрації завантажуємих моделей</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="171"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="171"/>
         <source>Initiate model discovery and filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>Розпочати пошук та фільтрацію моделей</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="172"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="172"/>
         <source>Triggers discovery and filtering of models</source>
-        <translation type="unfinished"></translation>
+        <translation>Запускає пошук та фільтрацію моделей</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="191"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="191"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>За замовчуванням</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="192"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="192"/>
         <source>Likes</source>
-        <translation type="unfinished"></translation>
+        <translation>Вподобайки</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="193"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="193"/>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="194"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="194"/>
         <source>Recent</source>
-        <translation type="unfinished"></translation>
+        <translation>Нещодавні</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="216"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="216"/>
         <source>Asc</source>
-        <translation type="unfinished"></translation>
+        <translation>За зростанням</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="217"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="217"/>
         <source>Desc</source>
-        <translation type="unfinished"></translation>
+        <translation>За спаданням</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="252"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="252"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Нічого</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="101"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="101"/>
         <source>Searching · %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук · %1</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="202"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="202"/>
         <source>Sort by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортування за: %1</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="230"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="230"/>
         <source>Sort dir: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Напрямок сортування: %1</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="274"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="274"/>
         <source>Limit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Обмеження: %1</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="307"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="307"/>
         <source>Network error: could not retrieve %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка мережі: не вдалося отримати %1</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="317"/>
@@ -192,73 +192,73 @@
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="317"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="605"/>
         <source>Busy indicator</source>
-        <translation type="unfinished"></translation>
+        <translation>Індикатор зайнятості</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="318"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="318"/>
         <source>Displayed when the models request is ongoing</source>
-        <translation type="unfinished"></translation>
+        <translation>Відображається під час обробки запиту на моделі</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="358"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="358"/>
         <source>Model file</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл моделі</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="359"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="359"/>
         <source>Model file to be downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл моделі що буде завантажено</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="382"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="382"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Опис</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="383"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="383"/>
         <source>File description</source>
-        <translation type="unfinished"></translation>
+        <translation>Опис файлу</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="416"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="416"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Відмінити</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="416"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="416"/>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернутися</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="416"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="416"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="424"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="424"/>
         <source>Stop/restart/start the download</source>
-        <translation type="unfinished"></translation>
+        <translation>Зупинити/перезапустити/запустити завантаження</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="436"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="436"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="443"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="443"/>
         <source>Remove model from filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити модель з фалової системи</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="457"/>
@@ -266,55 +266,55 @@
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="457"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="491"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Встанивити</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="492"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="492"/>
         <source>Install online model</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити онлайн модель</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="521"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="521"/>
         <source>&lt;strong&gt;&lt;font size=&quot;2&quot;&gt;WARNING: Not recommended for your hardware. Model requires more memory (%1 GB) than your system has available (%2).&lt;/strong&gt;&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;&lt;font size=&quot;2&quot;&gt;ПОПЕРЕДЖЕННЯ: Не рекомендовано для вашого обладнання. Модель потребує більше пам’яті (%1 ГБ), ніж доступно на вашій системі (%2).&lt;/strong&gt;&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="619"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="619"/>
         <source>ERROR: $API_KEY is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>ПОМИЛКА: $API_KEY порожнє.</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="640"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="640"/>
         <source>ERROR: $BASE_URL is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>ПОМИЛКА: $BASE_URL порожнє.</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="646"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="646"/>
         <source>enter $BASE_URL</source>
-        <translation type="unfinished"></translation>
+        <translation>введіть $BASE_URL</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="661"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="661"/>
         <source>ERROR: $MODEL_NAME is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>ПОМИЛКА: $MODEL_NAME порожнє.</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="667"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="667"/>
         <source>enter $MODEL_NAME</source>
-        <translation type="unfinished"></translation>
+        <translation>введіть $MODEL_NAME</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="716"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="716"/>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ГБ</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="716"/>
@@ -322,55 +322,55 @@
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="716"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="738"/>
         <source>?</source>
-        <translation type="unfinished"></translation>
+        <translation>?</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="508"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="508"/>
         <source>Describes an error that occurred when downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>Описує помилку, що виникла під час завантаження</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="502"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="502"/>
         <source>&lt;strong&gt;&lt;font size=&quot;1&quot;&gt;&lt;a href=&quot;#error&quot;&gt;Error&lt;/a&gt;&lt;/strong&gt;&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;&lt;font size=&quot;1&quot;&gt;&lt;a href=&quot;#error&quot;&gt;Помилка&lt;/a&gt;&lt;/strong&gt;&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="527"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="527"/>
         <source>Error for incompatible hardware</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка через несумісне обладнання</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="565"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="565"/>
         <source>Download progressBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Індикатор прогресу завантаження</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="566"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="566"/>
         <source>Shows the progress made in the download</source>
-        <translation type="unfinished"></translation>
+        <translation>Показує прогрес завантаження</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="576"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="576"/>
         <source>Download speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Швидкість завантаження</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="577"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="577"/>
         <source>Download speed in bytes/kilobytes/megabytes per second</source>
-        <translation type="unfinished"></translation>
+        <translation>Швидкість завантаження в байтах/кілобайтах/мегабайтах за секунду</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="594"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="594"/>
         <source>Calculating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Обчислюється...</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="598"/>
@@ -382,49 +382,49 @@
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="649"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="670"/>
         <source>Whether the file hash is being calculated</source>
-        <translation type="unfinished"></translation>
+        <translation>Чи обчислюється хеш файлу</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="606"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="606"/>
         <source>Displayed when the file hash is being calculated</source>
-        <translation type="unfinished"></translation>
+        <translation>Відображається під час обчислення хешу файлу</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="625"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="625"/>
         <source>enter $API_KEY</source>
-        <translation type="unfinished"></translation>
+        <translation>введіть $API_KEY</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="689"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="689"/>
         <source>File size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір файлу</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="711"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="711"/>
         <source>RAM required</source>
-        <translation type="unfinished"></translation>
+        <translation>Необхідна пам&apos;ять (RAM)</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="733"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="733"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="755"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="755"/>
         <source>Quant</source>
-        <translation type="unfinished"></translation>
+        <translation>Квант</translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="777"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="777"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип</translation>
     </message>
 </context>
 <context>
