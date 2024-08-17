@@ -1270,16 +1270,16 @@ model to get started</source>
         <location filename="../qml/CollectionsDrawer.qml" line="70"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="70"/>
         <source>Warning: searching collections while indexing can return incomplete results</source>
-        <translation type="unfinished"></translation>
+        <translation>Попередження: пошук у колекціях під час індексації може повернути неповні результати</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/CollectionsDrawer.qml" line="87"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="87"/>
         <source>%n file(s)</source>
         <translation>
-            <numerusform>%n file</numerusform>
-            <numerusform>%n files</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n файл</numerusform>
+            <numerusform>%n файли</numerusform>
+            <numerusform>%n файлів</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -1287,28 +1287,28 @@ model to get started</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="87"/>
         <source>%n word(s)</source>
         <translation>
-            <numerusform>%n word</numerusform>
-            <numerusform>%n words</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n слово</numerusform>
+            <numerusform>%n слова</numerusform>
+            <numerusform>%n слів</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/CollectionsDrawer.qml" line="103"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="103"/>
         <source>Updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення</translation>
     </message>
     <message>
         <location filename="../qml/CollectionsDrawer.qml" line="128"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="128"/>
         <source>＋ Add Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>+ Додати Документи</translation>
     </message>
     <message>
         <location filename="../qml/CollectionsDrawer.qml" line="137"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="137"/>
         <source>Select a collection to make it available to the chat model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть колекцію, щоб зробити її доступною для моделі чату.</translation>
     </message>
 </context>
 <context>
@@ -1316,37 +1316,37 @@ model to get started</source>
     <message>
         <location filename="../download.cpp" line="278"/>
         <source>Model &quot;%1&quot; is installed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель &quot;%1&quot; успішно встановлена.</translation>
     </message>
     <message>
         <location filename="../download.cpp" line="288"/>
         <source>ERROR: $MODEL_NAME is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>ПОМИЛКА: $MODEL_NAME порожнє.</translation>
     </message>
     <message>
         <location filename="../download.cpp" line="294"/>
         <source>ERROR: $API_KEY is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>ПОМИЛКА: $API_KEY порожнє.</translation>
     </message>
     <message>
         <location filename="../download.cpp" line="300"/>
         <source>ERROR: $BASE_URL is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>ПОМИЛКА: $BASE_URL порожнє.</translation>
     </message>
     <message>
         <location filename="../download.cpp" line="306"/>
         <source>ERROR: Model &quot;%1 (%2)&quot; is conflict.</source>
-        <translation type="unfinished"></translation>
+        <translation>ПОМИЛКА: Модель &quot;%1 (%2)&quot; викликає конфлікт.</translation>
     </message>
     <message>
         <location filename="../download.cpp" line="325"/>
         <source>Model &quot;%1 (%2)&quot; is installed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель &quot;%1 (%2)&quot; успішно встановлена.</translation>
     </message>
     <message>
         <location filename="../download.cpp" line="349"/>
         <source>Model &quot;%1&quot; is removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель &quot;%1&quot; видалена.</translation>
     </message>
 </context>
 <context>
@@ -1355,49 +1355,49 @@ model to get started</source>
         <location filename="../qml/HomeView.qml" line="49"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="49"/>
         <source>Welcome to GPT4All</source>
-        <translation type="unfinished"></translation>
+        <translation>Ласкаво просимо до GPT4All</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="56"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="56"/>
         <source>The privacy-first LLM chat application</source>
-        <translation type="unfinished"></translation>
+        <translation>Застосунок для чату з LLM, орієнтована на конфіденційність</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="66"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="66"/>
         <source>Start chatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Розпочати чат</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="81"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="81"/>
         <source>Start Chatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Розпочати Чат</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="82"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="82"/>
         <source>Chat with any LLM</source>
-        <translation type="unfinished"></translation>
+        <translation>Чат з будь-якою великою мовною моделлю</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="92"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="92"/>
         <source>LocalDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalDocs</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="93"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="93"/>
         <source>Chat with your local files</source>
-        <translation type="unfinished"></translation>
+        <translation>Чат з вашими локальними файлами</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="103"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="103"/>
         <source>Find Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Знайти Моделі</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="104"/>
@@ -2778,31 +2778,31 @@ model release that uses your data!</source>
         <location filename="../main.qml" line="111"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="111"/>
         <source>&lt;h3&gt;Encountered an error starting up:&lt;/h3&gt;&lt;br&gt;&lt;i&gt;&quot;Incompatible hardware detected.&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;Unfortunately, your CPU does not meet the minimal requirements to run this program. In particular, it does not support AVX intrinsics which this program requires to successfully run a modern large language model. The only solution at this time is to upgrade your hardware to a more modern CPU.&lt;br&gt;&lt;br&gt;See here for more information: &lt;a href=&quot;https://en.wikipedia.org/wiki/Advanced_Vector_Extensions&quot;&gt;https://en.wikipedia.org/wiki/Advanced_Vector_Extensions&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Сталася помилка при запуску:&lt;/h3&gt;&lt;br&gt;&lt;i&gt;&quot;Виявлено несумісне обладнання.&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;На жаль, ваш процесор не відповідає мінімальним вимогам для роботи цієї програми. Зокрема, він не підтримує інструкції AVX, які ця програма вимагає для успішної роботи сучасної великої мовної моделі. Єдине рішення на даний момент — оновити ваше обладнання до більш сучасного процесора.&lt;br&gt;&lt;br&gt;Детальніше тут: &lt;a href=&quot;https://en.wikipedia.org/wiki/Advanced_Vector_Extensions&quot;&gt;https://en.wikipedia.org/wiki/Advanced_Vector_Extensions&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../main.qml" line="23"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="23"/>
         <source>GPT4All v%1</source>
-        <translation type="unfinished"></translation>
+        <translation>GPT4All v%1</translation>
     </message>
     <message>
         <location filename="../main.qml" line="127"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="127"/>
         <source>&lt;h3&gt;Encountered an error starting up:&lt;/h3&gt;&lt;br&gt;&lt;i&gt;&quot;Inability to access settings file.&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;Unfortunately, something is preventing the program from accessing the settings file. This could be caused by incorrect permissions in the local app config directory where the settings file is located. Check out our &lt;a href=&quot;https://discord.gg/4M2QFmTt2k&quot;&gt;discord channel&lt;/a&gt; for help.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Сталася помилка при запуску:&lt;/h3&gt;&lt;br&gt;&lt;i&gt;&quot;Неможливість доступу до файлу налаштувань.&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;На жаль, щось заважає програмі отримати доступ до файлу налаштувань. Це може бути спричинено некоректними дозволами у локальному каталозі конфігурації програми, де знаходиться файл налаштувань. Перегляньте наш &lt;a href=&quot;https://discord.gg/4M2QFmTt2k&quot;&gt;дискорд-канал&lt;/a&gt; для отримання допомоги.</translation>
     </message>
     <message>
         <location filename="../main.qml" line="155"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="155"/>
         <source>Connection to datalake failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>З&apos;єднання з сховищем даних не вдалося.</translation>
     </message>
     <message>
         <location filename="../main.qml" line="166"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="166"/>
         <source>Saving chats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Збереження чатів.</translation>
     </message>
     <message>
         <location filename="../main.qml" line="177"/>
@@ -2832,7 +2832,7 @@ model release that uses your data!</source>
         <location filename="../main.qml" line="240"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="240"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Головна</translation>
     </message>
     <message>
         <location filename="../main.qml" line="266"/>
@@ -2850,7 +2850,7 @@ model release that uses your data!</source>
         <location filename="../main.qml" line="275"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="275"/>
         <source>Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Чати</translation>
     </message>
     <message>
         <location filename="../main.qml" line="300"/>
@@ -2858,7 +2858,7 @@ model release that uses your data!</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="300"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="309"/>
         <source>Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Моделі</translation>
     </message>
     <message>
         <location filename="../main.qml" line="301"/>
@@ -2872,7 +2872,7 @@ model release that uses your data!</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="334"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="343"/>
         <source>LocalDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalDocs</translation>
     </message>
     <message>
         <location filename="../main.qml" line="335"/>
@@ -2886,7 +2886,7 @@ model release that uses your data!</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="368"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="377"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="../main.qml" line="369"/>
