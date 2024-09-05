@@ -476,7 +476,7 @@
         <location filename="../qml/ApplicationSettings.qml" line="72"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="72"/>
         <source>Application Settings</source>
-        <translation>Налаштування Застосунку</translation>
+        <translation>Параметри Застосунку</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="85"/>
@@ -664,7 +664,7 @@
         <location filename="../qml/ApplicationSettings.qml" line="444"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="444"/>
         <source>Advanced</source>
-        <translation>Розширені налаштування</translation>
+        <translation>Розширені параметри</translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="456"/>
@@ -1403,61 +1403,61 @@ model to get started</source>
         <location filename="../qml/HomeView.qml" line="104"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="104"/>
         <source>Explore and download models</source>
-        <translation type="unfinished"></translation>
+        <translation>Знайти та завантажити моделі</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="190"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="190"/>
         <source>Latest news</source>
-        <translation type="unfinished"></translation>
+        <translation>Останні новини</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="191"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="191"/>
         <source>Latest news from GPT4All</source>
-        <translation type="unfinished"></translation>
+        <translation>Останні новини від GPT4All</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="222"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="222"/>
         <source>Release Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Примітки до випуску</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="228"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="228"/>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Документація</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="234"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="234"/>
         <source>Discord</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="240"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="240"/>
         <source>X (Twitter)</source>
-        <translation type="unfinished"></translation>
+        <translation>X (Twitter)</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="246"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="246"/>
         <source>Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Github</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="257"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="257"/>
         <source>GPT4All.io</source>
-        <translation type="unfinished"></translation>
+        <translation>GPT4All.io</translation>
     </message>
     <message>
         <location filename="../qml/HomeView.qml" line="282"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/HomeView.qml" line="282"/>
         <source>Subscribe to Newsletter</source>
-        <translation type="unfinished"></translation>
+        <translation>Підписатися на розсилку</translation>
     </message>
 </context>
 <context>
@@ -1466,19 +1466,19 @@ model to get started</source>
         <location filename="../qml/LocalDocsSettings.qml" line="19"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="19"/>
         <source>LocalDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalDocs</translation>
     </message>
     <message>
         <location filename="../qml/LocalDocsSettings.qml" line="29"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="29"/>
         <source>LocalDocs Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування LocalDocs</translation>
     </message>
     <message>
         <location filename="../qml/LocalDocsSettings.qml" line="38"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="38"/>
         <source>Indexing</source>
-        <translation type="unfinished"></translation>
+        <translation>Індексація</translation>
     </message>
     <message>
         <location filename="../qml/LocalDocsSettings.qml" line="51"/>
@@ -2387,13 +2387,13 @@ NOTE: Does not take effect until you reload the model.</source>
         <location filename="../qml/MyFancyLink.qml" line="42"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/MyFancyLink.qml" line="42"/>
         <source>Fancy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Красиве посилання</translation>
     </message>
     <message>
         <location filename="../qml/MyFancyLink.qml" line="43"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/MyFancyLink.qml" line="43"/>
         <source>A stylized link</source>
-        <translation type="unfinished"></translation>
+        <translation>Стилізоване посилання</translation>
     </message>
 </context>
 <context>
@@ -2402,7 +2402,7 @@ NOTE: Does not take effect until you reload the model.</source>
         <location filename="../qml/MySettingsStack.qml" line="66"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/MySettingsStack.qml" line="66"/>
         <source>Please choose a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка оберіть директорію</translation>
     </message>
 </context>
 <context>
@@ -2411,13 +2411,13 @@ NOTE: Does not take effect until you reload the model.</source>
         <location filename="../qml/MySettingsTab.qml" line="62"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/MySettingsTab.qml" line="62"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Відновити за замовчуванням</translation>
     </message>
     <message>
         <location filename="../qml/MySettingsTab.qml" line="66"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/MySettingsTab.qml" line="66"/>
         <source>Restores settings dialog to a default state</source>
-        <translation type="unfinished"></translation>
+        <translation>Відновлює діалогове вікно налаштувань до стану за замовчуванням</translation>
     </message>
 </context>
 <context>
@@ -2426,7 +2426,7 @@ NOTE: Does not take effect until you reload the model.</source>
         <location filename="../qml/NetworkDialog.qml" line="39"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NetworkDialog.qml" line="39"/>
         <source>Contribute data to the GPT4All Opensource Datalake.</source>
-        <translation type="unfinished"></translation>
+        <translation>Додайте дані до відкритого сховища даних GPT4All Datalake.</translation>
     </message>
     <message>
         <location filename="../qml/NetworkDialog.qml" line="55"/>
@@ -2436,61 +2436,65 @@ NOTE: Does not take effect until you reload the model.</source>
 When a GPT4All model responds to you and you have opted-in, your conversation will be sent to the GPT4All Open Source Datalake. Additionally, you can like/dislike its response. If you dislike a response, you can suggest an alternative response. This data will be collected and aggregated in the GPT4All Datalake.
 
 NOTE: By turning on this feature, you will be sending your data to the GPT4All Open Source Datalake. You should have no expectation of chat privacy when this feature is enabled. You should; however, have an expectation of an optional attribution if you wish. Your chat data will be openly available for anyone to download and will be used by Nomic AI to improve future GPT4All models. Nomic AI will retain all attribution information attached to your data and you will be credited as a contributor to any GPT4All model release that uses your data!</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнувши цю функцію, ви зможете брати участь у демократичному процесі навчання великої мовної моделі, надаючи дані для покращення майбутніх моделей.
+
+Коли модель GPT4All відповідає вам і ви погодилися, ваша розмова буде надіслана до відкритого сховища даних GPT4All Datalake. Крім того, ви зможете ставити лайки/дизлайки на її відповіді. Якщо вам не сподобається відповідь, ви можете запропонувати альтернативну відповідь. Ці дані будуть зібрані та агреговані в сховищі даних GPT4All Datalake.
+
+ПРИМІТКА: Увімкнувши цю функцію, ви надсилатимете свої дані до відкритого сховища даних GPT4All Datalake. Ви не повинні очікувати конфіденційності чату, коли ця функція увімкнена. Однак ви можете очікувати посилання на авторство за бажанням. Дані вашого чату будуть відкрито доступні для завантаження будь-ким і використовуватимуться Nomic AI для покращення майбутніх моделей GPT4All. Nomic AI зберігатиме всю інформацію про авторство, прикріплену до ваших даних, і ви будете зазначені як учасник будь-якого випуску моделі GPT4All, який використовує ваші дані!</translation>
     </message>
     <message>
         <location filename="../qml/NetworkDialog.qml" line="63"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NetworkDialog.qml" line="63"/>
         <source>Terms for opt-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Умови для участі</translation>
     </message>
     <message>
         <location filename="../qml/NetworkDialog.qml" line="64"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NetworkDialog.qml" line="64"/>
         <source>Describes what will happen when you opt-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Описує, що станеться, коли ви погодитесь</translation>
     </message>
     <message>
         <location filename="../qml/NetworkDialog.qml" line="72"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NetworkDialog.qml" line="72"/>
         <source>Please provide a name for attribution (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка, надайте ім’я для авторства (опційно)</translation>
     </message>
     <message>
         <location filename="../qml/NetworkDialog.qml" line="74"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NetworkDialog.qml" line="74"/>
         <source>Attribution (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторство (опційно)</translation>
     </message>
     <message>
         <location filename="../qml/NetworkDialog.qml" line="75"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NetworkDialog.qml" line="75"/>
         <source>Provide attribution</source>
-        <translation type="unfinished"></translation>
+        <translation>Надати авторство</translation>
     </message>
     <message>
         <location filename="../qml/NetworkDialog.qml" line="88"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NetworkDialog.qml" line="88"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввімкнути</translation>
     </message>
     <message>
         <location filename="../qml/NetworkDialog.qml" line="89"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NetworkDialog.qml" line="89"/>
         <source>Enable opt-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввімкнути участь</translation>
     </message>
     <message>
         <location filename="../qml/NetworkDialog.qml" line="93"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NetworkDialog.qml" line="93"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Відмінити</translation>
     </message>
     <message>
         <location filename="../qml/NetworkDialog.qml" line="94"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NetworkDialog.qml" line="94"/>
         <source>Cancel opt-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Відмінити участь</translation>
     </message>
 </context>
 <context>
@@ -2499,19 +2503,19 @@ NOTE: By turning on this feature, you will be sending your data to the GPT4All O
         <location filename="../qml/NewVersionDialog.qml" line="34"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NewVersionDialog.qml" line="34"/>
         <source>New version is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступна нова версія</translation>
     </message>
     <message>
         <location filename="../qml/NewVersionDialog.qml" line="46"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NewVersionDialog.qml" line="46"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновити</translation>
     </message>
     <message>
         <location filename="../qml/NewVersionDialog.qml" line="48"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/NewVersionDialog.qml" line="48"/>
         <source>Update to new version</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновити до нової версії</translation>
     </message>
 </context>
 <context>
@@ -2520,19 +2524,19 @@ NOTE: By turning on this feature, you will be sending your data to the GPT4All O
         <location filename="../qml/PopupDialog.qml" line="38"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/PopupDialog.qml" line="38"/>
         <source>Reveals a shortlived help balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Відображає короткочасну допоміжну підказку</translation>
     </message>
     <message>
         <location filename="../qml/PopupDialog.qml" line="48"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/PopupDialog.qml" line="48"/>
         <source>Busy indicator</source>
-        <translation type="unfinished"></translation>
+        <translation>Індикатор зайнятости</translation>
     </message>
     <message>
         <location filename="../qml/PopupDialog.qml" line="49"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/PopupDialog.qml" line="49"/>
         <source>Displayed when the popup is showing busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Відображається, коли спливаюче вікно показує зайнятість</translation>
     </message>
 </context>
 <context>
@@ -2543,31 +2547,31 @@ NOTE: By turning on this feature, you will be sending your data to the GPT4All O
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/SettingsView.qml" line="22"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/SettingsView.qml" line="61"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри</translation>
     </message>
     <message>
         <location filename="../qml/SettingsView.qml" line="23"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/SettingsView.qml" line="23"/>
         <source>Contains various application settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Містить різні параметри застосунку</translation>
     </message>
     <message>
         <location filename="../qml/SettingsView.qml" line="29"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/SettingsView.qml" line="29"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Застосунок</translation>
     </message>
     <message>
         <location filename="../qml/SettingsView.qml" line="32"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/SettingsView.qml" line="32"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель</translation>
     </message>
     <message>
         <location filename="../qml/SettingsView.qml" line="35"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/SettingsView.qml" line="35"/>
         <source>LocalDocs</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalDocs</translation>
     </message>
 </context>
 <context>
@@ -2576,7 +2580,7 @@ NOTE: By turning on this feature, you will be sending your data to the GPT4All O
         <location filename="../qml/StartupDialog.qml" line="50"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="50"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ласкаво просимо!</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="67"/>
@@ -2584,19 +2588,21 @@ NOTE: By turning on this feature, you will be sending your data to the GPT4All O
         <source>### Release notes
 %1### Contributors
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>### Примітки до випуску
+%1### Автори
+%2</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="71"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="71"/>
         <source>Release notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Примітки до випуску</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="72"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="72"/>
         <source>Release notes for this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Примітки до випуску цієї версії</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="87"/>
@@ -2615,19 +2621,24 @@ an expectation of an optional attribution if you wish. Your chat data will be op
 to download and will be used by Nomic AI to improve future GPT4All models. Nomic AI will retain all
 attribution information attached to your data and you will be credited as a contributor to any GPT4All
 model release that uses your data!</source>
-        <translation type="unfinished"></translation>
+        <translation>###Погодження на анонімний аналіз використання та сховище даних
+Увімкнувши цю функцію, ви зможете брати участь у демократичному процесі навчання великої мовної моделі, надаючи дані для покращення майбутніх моделей.
+
+Коли модель GPT4All відповідає вам і ви погодилися, ваша розмова буде надіслана до відкритого сховища даних GPT4All Datalake. Крім того, ви зможете ставити лайки/дизлайки на її відповіді. Якщо вам не сподобається відповідь, ви можете запропонувати альтернативну відповідь. Ці дані будуть зібрані та агреговані в сховищі даних GPT4All Datalake.
+
+ПРИМІТКА: Увімкнувши цю функцію, ви надсилатимете свої дані до відкритого сховища даних GPT4All Datalake. Ви не повинні очікувати конфіденційності чату, коли ця функція увімкнена. Однак ви можете очікувати посилання на авторство за бажанням. Дані вашого чату будуть відкрито доступні для завантаження будь-ким і використовуватимуться Nomic AI для покращення майбутніх моделей GPT4All. Nomic AI зберігатиме всю інформацію про авторство, прикріплену до ваших даних, і ви будете зазначені як учасник будь-якого випуску моделі GPT4All, який використовує ваші дані!</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="106"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="106"/>
         <source>Terms for opt-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Умови для погодження</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="107"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="107"/>
         <source>Describes what will happen when you opt-in</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="124"/>
@@ -2635,7 +2646,7 @@ model release that uses your data!</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="124"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="150"/>
         <source>Opt-in for anonymous usage statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Погодитися на збір анонімної статистики використання</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="147"/>
@@ -2643,13 +2654,13 @@ model release that uses your data!</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="147"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="262"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Так</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="151"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="151"/>
         <source>Allow opt-in for anonymous usage statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>надати дозвіл на збір анонімної статистики використання</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="189"/>
@@ -2657,19 +2668,19 @@ model release that uses your data!</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="189"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="304"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Ні</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="192"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="192"/>
         <source>Opt-out for anonymous usage statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Відмовитися від збору анонімної статистики використання</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="193"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="193"/>
         <source>Allow opt-out for anonymous usage statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволити відмову від збору анонімної статистики використання</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="238"/>
@@ -2677,31 +2688,31 @@ model release that uses your data!</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="238"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="265"/>
         <source>Opt-in for network</source>
-        <translation type="unfinished"></translation>
+        <translation>Погодитися на використання мережі</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="239"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="239"/>
         <source>Allow opt-in for network</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволити погодження на використання мережі</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="266"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="266"/>
         <source>Allow opt-in anonymous sharing of chats to the GPT4All Datalake</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволити погодження на анонімний обмін чатами до сховища даних GPT4All Datalake</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="307"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="307"/>
         <source>Opt-out for network</source>
-        <translation type="unfinished"></translation>
+        <translation>Відмовитися від використання мережі</translation>
     </message>
     <message>
         <location filename="../qml/StartupDialog.qml" line="308"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/StartupDialog.qml" line="308"/>
         <source>Allow opt-out anonymous sharing of chats to the GPT4All Datalake</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволити відмову від анонімного обміну чатами до сховища даних GPT4All Datalake</translation>
     </message>
 </context>
 <context>
@@ -2710,19 +2721,19 @@ model release that uses your data!</source>
         <location filename="../qml/SwitchModelDialog.qml" line="22"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/SwitchModelDialog.qml" line="22"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; changing the model will erase the current conversation. Do you wish to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Попередження:&lt;/b&gt; зміна моделі призведе до видалення поточної розмови. Ви впевнені, що хочете продовжити?</translation>
     </message>
     <message>
         <location filename="../qml/SwitchModelDialog.qml" line="33"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/SwitchModelDialog.qml" line="33"/>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Продовжити</translation>
     </message>
     <message>
         <location filename="../qml/SwitchModelDialog.qml" line="34"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/SwitchModelDialog.qml" line="34"/>
         <source>Continue with model loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Продовжити завантаження моделі</translation>
     </message>
     <message>
         <location filename="../qml/SwitchModelDialog.qml" line="38"/>
@@ -2730,7 +2741,7 @@ model release that uses your data!</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/SwitchModelDialog.qml" line="38"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/SwitchModelDialog.qml" line="39"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Відмінити</translation>
     </message>
 </context>
 <context>
@@ -2739,37 +2750,37 @@ model release that uses your data!</source>
         <location filename="../qml/ThumbsDownDialog.qml" line="39"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ThumbsDownDialog.qml" line="39"/>
         <source>Please edit the text below to provide a better response. (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка, відредагуйте текст нижче, щоб надати кращу відповідь. (опційно)</translation>
     </message>
     <message>
         <location filename="../qml/ThumbsDownDialog.qml" line="54"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ThumbsDownDialog.qml" line="54"/>
         <source>Please provide a better response...</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка, надайте кращу відповідь...</translation>
     </message>
     <message>
         <location filename="../qml/ThumbsDownDialog.qml" line="64"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ThumbsDownDialog.qml" line="64"/>
         <source>Submit</source>
-        <translation type="unfinished"></translation>
+        <translation>Надіслати</translation>
     </message>
     <message>
         <location filename="../qml/ThumbsDownDialog.qml" line="65"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ThumbsDownDialog.qml" line="65"/>
         <source>Submits the user&apos;s response</source>
-        <translation type="unfinished"></translation>
+        <translation>Надсилає відповідь користувача</translation>
     </message>
     <message>
         <location filename="../qml/ThumbsDownDialog.qml" line="69"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ThumbsDownDialog.qml" line="69"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Відмінити</translation>
     </message>
     <message>
         <location filename="../qml/ThumbsDownDialog.qml" line="70"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ThumbsDownDialog.qml" line="70"/>
         <source>Closes the response dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Закриває діалог відповіді</translation>
     </message>
 </context>
 <context>
@@ -2808,25 +2819,25 @@ model release that uses your data!</source>
         <location filename="../main.qml" line="177"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="177"/>
         <source>Network dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Мережевий діалог</translation>
     </message>
     <message>
         <location filename="../main.qml" line="178"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="178"/>
         <source>opt-in to share feedback/conversations</source>
-        <translation type="unfinished"></translation>
+        <translation>взяти участь в обміну відгуками/розмовами</translation>
     </message>
     <message>
         <location filename="../main.qml" line="231"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="231"/>
         <source>Home view</source>
-        <translation type="unfinished"></translation>
+        <translation>Початковий екран</translation>
     </message>
     <message>
         <location filename="../main.qml" line="232"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="232"/>
         <source>Home view of application</source>
-        <translation type="unfinished"></translation>
+        <translation>Початковий екран застосунку</translation>
     </message>
     <message>
         <location filename="../main.qml" line="240"/>
@@ -2838,13 +2849,13 @@ model release that uses your data!</source>
         <location filename="../main.qml" line="266"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="266"/>
         <source>Chat view</source>
-        <translation type="unfinished"></translation>
+        <translation>Екран чату</translation>
     </message>
     <message>
         <location filename="../main.qml" line="267"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="267"/>
         <source>Chat view to interact with models</source>
-        <translation type="unfinished"></translation>
+        <translation>Екран чату для взаємодії з моделями</translation>
     </message>
     <message>
         <location filename="../main.qml" line="275"/>
@@ -2864,7 +2875,7 @@ model release that uses your data!</source>
         <location filename="../main.qml" line="301"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="301"/>
         <source>Models view for installed models</source>
-        <translation type="unfinished"></translation>
+        <translation>Екран моделей для встановлення моделей</translation>
     </message>
     <message>
         <location filename="../main.qml" line="334"/>
@@ -2878,7 +2889,7 @@ model release that uses your data!</source>
         <location filename="../main.qml" line="335"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="335"/>
         <source>LocalDocs view to configure and use local docs</source>
-        <translation type="unfinished"></translation>
+        <translation>Екран LocalDocs для конфігурації та використання локальних документів</translation>
     </message>
     <message>
         <location filename="../main.qml" line="368"/>
@@ -2886,43 +2897,43 @@ model release that uses your data!</source>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="368"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="377"/>
         <source>Settings</source>
-        <translation>Налаштування</translation>
+        <translation>Параметри</translation>
     </message>
     <message>
         <location filename="../main.qml" line="369"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="369"/>
         <source>Settings view for application configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Екран налаштувань для конфігурації застосунку</translation>
     </message>
     <message>
         <location filename="../main.qml" line="422"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="422"/>
         <source>The datalake is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Сховище даних Datalke включено</translation>
     </message>
     <message>
         <location filename="../main.qml" line="424"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="424"/>
         <source>Using a network model</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовується мережева модель</translation>
     </message>
     <message>
         <location filename="../main.qml" line="426"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="426"/>
         <source>Server mode is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Сереверний режим ввімкнено</translation>
     </message>
     <message>
         <location filename="../main.qml" line="640"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="640"/>
         <source>Installed models</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановленй моделі</translation>
     </message>
     <message>
         <location filename="../main.qml" line="641"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/main.qml" line="641"/>
         <source>View of installed models</source>
-        <translation type="unfinished"></translation>
+        <translation>Екран встановлених моделей</translation>
     </message>
 </context>
 </TS>
